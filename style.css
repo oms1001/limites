@@ -1,0 +1,29 @@
+body{
+    background-color: red;
+    font-size: 2em;
+    font-family: Arial;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+h1:hover{
+    color: rgb(255, 255, 255);
+}
+
+h2:hover{
+    color: rgb(255, 255, 255);
+}
+
+p:hover{
+    color: rgb(255, 255, 255);
+}
